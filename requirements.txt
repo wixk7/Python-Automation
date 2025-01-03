@@ -1,0 +1,12 @@
+pdf2docx
+matplotlib
+pandas
+requests
+beautifulsoup4
+cryptography
+Pillow
+pyttsx3
+pdfplumber
+PyPDF2
+xlsxwriter
+
