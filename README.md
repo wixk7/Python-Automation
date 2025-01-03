@@ -140,8 +140,8 @@ python <script\_name>.py
 
 For questions or collaboration inquiries, please contact:
 
-*   **Name:** \[Sai Sathwik Matury\]
-*   **Email:** \[sathwik.790@gmail.com\]
+*   **Name:** \Sai Sathwik Matury\
+*   **Email:** \sathwik.790@gmail.com\
 
   
 
