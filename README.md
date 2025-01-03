@@ -113,13 +113,13 @@ git clone https://github.com/wixx7/Python-Automation.git
 cd Python-Automation
 ```
 
-1.  Install dependencies:
+2.  Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-1.  Ensure all necessary input files are available and correctly referenced in the scripts.
+3.  Ensure all necessary input files are available and correctly referenced in the scripts.
 
   
 
